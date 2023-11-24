@@ -1,0 +1,12 @@
+Here is a step-by-step demonstration of how to build a thermometer using a TMP36 sensor, potentiometer, and 16x2 LCD display to display the temperature using Tinkercad:
+
+Components required:
+
+1. Arduino Uno board
+2. TMP36 temperature sensor
+3. 16x2 LCD display
+4. Potentiometer (10K ohm)
+5. Jumper wires
+6. Breadboard
+7. LED
+8. Resisiter (1k ohm)

@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"Rpot1",1,"250 kΩ Potentiometer"
+"D1",1,"Green LED"
+"R1",1,"1 kΩ Resistor"
+"LED2",1," NeoPixel Strip 6"
+"LED1",1," NeoPixel Strip 20"
+"RING1",1," NeoPixel Ring 16"
+"LED3",1," NeoPixel"
